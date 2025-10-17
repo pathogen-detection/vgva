@@ -67,7 +67,7 @@ if __name__ == "__main__":
     
     # 4. plot
     gv.plot_genome_variation(
-        None,  # auto colour-map
+        None,
         genome_structure_table=genome_structure,
         target_x_start=95,
         target_x_end=650,
@@ -134,3 +134,4 @@ Example snippet(PRRSV-2):
 - pandas>=2.0.3
 - matplotlib>=3.6.2
 - biopython>=1.83
+
