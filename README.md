@@ -16,7 +16,7 @@ the python scripts will calculate the 25th percentile (Q1), median, and 75th per
 Results can be exported as tables or publication-ready SVG figures together with a user-supplied genome structure table.
 
 &gt; If you use VGVA in your research :  
-- Please cite our paper: Gong B, Xiang L, Li J, *et al.* *Novel Real-Time Quantitative RT-PCR for Detection of PRRSV-1 and PRRSV-2 Strains Circulating in China: A Study Based on Whole-Genome Characteristics and Epidemiological Features*  
+- Please cite our paper: Gong B, Xiang L, Li J, *et al.* (2025) *Novel Real-Time Quantitative RT-PCR for Detection of PRRSV-1 and PRRSV-2 Strains Circulating in China: A Study Based on Whole-Genome Characteristics and Epidemiological Features* The Veterinary Journal. 
 - Obey the **GNU General Public License v3 (GPLv3)**.
 
 ---
@@ -134,5 +134,6 @@ Example snippet(PRRSV-2):
 - pandas>=2.0.3
 - matplotlib>=3.6.2
 - biopython>=1.83
+
 
 
