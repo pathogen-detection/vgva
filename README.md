@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Cite](https://img.shields.io/badge/cite-Gong%20et%20al.%202025-red)](https://doi.org/10.XXXX/XXXXXX)
+[![Cite](https://img.shields.io/badge/cite-Gong%20et%20al.%202025-red)](https://doi.org/10.1016/j.tvjl.2025.106482)
 
 ---
 
@@ -134,4 +134,5 @@ Example snippet(PRRSV-2):
 - pandas>=2.0.3
 - matplotlib>=3.6.2
 - biopython>=1.83
+
 
